@@ -1,7 +1,9 @@
 # Portifolio
 #### Descrição:
      Reprodução de pagina de portifólio com Html e CSS, seguindo projeto no figma
-     <p>(https://bit.ly/figmaPortifolioModelo)</p>
+    
+     https://bit.ly/figmaPortifolioModelo
+     
 #### Status:
      👩🏻‍💡 em andamento
      
